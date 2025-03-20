@@ -144,6 +144,7 @@ export class LibraryService {
       if (downloadError) throw downloadError;
 
       // 2. Incrementar o contador de downloads do material
+      // @ts-ignore - função existe no backend mas não está definida nos tipos
       const { error: updateError } = await supabase.rpc(
         "increment_download_count",
         { material_id: materialId },

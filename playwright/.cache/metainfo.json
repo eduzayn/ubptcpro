@@ -1,0 +1,90 @@
+{
+  "version": "1.51.1",
+  "viteVersion": "6.2.2",
+  "registerSourceHash": "ea233d95b980072c81eb49458aee55f5d33fdb02",
+  "components": [
+    {
+      "id": "C__UBPTC_ubptcpro_src_components_ui_button_Button",
+      "filename": "C:\\UBPTC\\ubptcpro\\tests\\components-ct\\Button.spec.tsx",
+      "importSource": "../../src/components/ui/button",
+      "remoteName": "Button"
+    }
+  ],
+  "sources": {
+    "C:/UBPTC/ubptcpro/playwright/index.html": {
+      "timestamp": 1742505430769.9675
+    },
+    "C:/UBPTC/ubptcpro/playwright/index.ts": {
+      "timestamp": 1742505438879.8389
+    },
+    "C:/UBPTC/ubptcpro/node_modules/react/index.js": {
+      "timestamp": 1742501716321.0337
+    },
+    "C:/UBPTC/ubptcpro/node_modules/react-dom/client.js": {
+      "timestamp": 1742501716321.0337
+    },
+    "C:/UBPTC/ubptcpro/node_modules/@playwright/experimental-ct-react/hooks.mjs": {
+      "timestamp": 1742503226328.908
+    },
+    "C:/UBPTC/ubptcpro/src/components/ui/button.tsx": {
+      "timestamp": 1742501647794.907
+    },
+    "C:/UBPTC/ubptcpro/node_modules/react/cjs/react.production.min.js": {
+      "timestamp": 1742501721490.362
+    },
+    "C:/UBPTC/ubptcpro/node_modules/react-dom/index.js": {
+      "timestamp": 1742501716753.7654
+    },
+    "C:/UBPTC/ubptcpro/src/index.css": {
+      "timestamp": 1742501647853.1233
+    },
+    "C:/UBPTC/ubptcpro/node_modules/react/jsx-runtime.js": {
+      "timestamp": 1742501717120.4377
+    },
+    "C:/UBPTC/ubptcpro/node_modules/@radix-ui/react-slot/dist/index.mjs": {
+      "timestamp": 1742501720788.8726
+    },
+    "C:/UBPTC/ubptcpro/node_modules/class-variance-authority/dist/index.mjs": {
+      "timestamp": 1742501720370.5413
+    },
+    "C:/UBPTC/ubptcpro/src/lib/utils.ts": {
+      "timestamp": 1742501647856.9375
+    },
+    "C:/UBPTC/ubptcpro/node_modules/react-dom/cjs/react-dom.production.min.js": {
+      "timestamp": 1742501724408.103
+    },
+    "C:/UBPTC/ubptcpro/node_modules/class-variance-authority/node_modules/clsx/dist/clsx.mjs": {
+      "timestamp": 1742501722135.7522
+    },
+    "C:/UBPTC/ubptcpro/node_modules/@radix-ui/react-compose-refs/dist/index.mjs": {
+      "timestamp": 1742501721396.2273
+    },
+    "C:/UBPTC/ubptcpro/node_modules/react/cjs/react-jsx-runtime.production.min.js": {
+      "timestamp": 1742501720097.0762
+    },
+    "C:/UBPTC/ubptcpro/node_modules/clsx/dist/clsx.mjs": {
+      "timestamp": 1742501719503.626
+    },
+    "C:/UBPTC/ubptcpro/node_modules/scheduler/index.js": {
+      "timestamp": 1742501716319.0212
+    },
+    "C:/UBPTC/ubptcpro/node_modules/tailwind-merge/dist/bundle-mjs.mjs": {
+      "timestamp": 1742501721950.285
+    },
+    "C:/UBPTC/ubptcpro/node_modules/scheduler/cjs/scheduler.production.min.js": {
+      "timestamp": 1742501720544.2217
+    }
+  },
+  "deps": {
+    "C:\\UBPTC\\ubptcpro\\src\\components\\ui\\button.tsx": [
+      "C:\\UBPTC\\ubptcpro\\src\\components\\ui\\button.tsx",
+      "C:\\UBPTC\\ubptcpro\\node_modules\\@radix-ui\\react-slot\\dist\\index.mjs",
+      "C:\\UBPTC\\ubptcpro\\node_modules\\@radix-ui\\react-compose-refs\\dist\\index.mjs",
+      "C:\\UBPTC\\ubptcpro\\node_modules\\class-variance-authority\\dist\\index.mjs",
+      "C:\\UBPTC\\ubptcpro\\node_modules\\class-variance-authority\\node_modules\\clsx\\dist\\clsx.mjs",
+      "C:\\UBPTC\\ubptcpro\\src\\lib\\utils.ts",
+      "C:\\UBPTC\\ubptcpro\\node_modules\\clsx\\dist\\clsx.mjs",
+      "C:\\UBPTC\\ubptcpro\\node_modules\\tailwind-merge\\dist\\bundle-mjs.mjs"
+    ]
+  }
+}
